@@ -34,4 +34,3 @@
 - Expo
 - React Native Navigation
 - Google Places, Directions and Distance Matrix API
-- Typescript
