@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img width="400px" height="800px" style="object-fit: contain" src="" alt="home" />
+  <img width="400px" height="800px" style="object-fit: contain" src="https://raw.githubusercontent.com/eraydmrcoglu/Uber-Clone/main/assets/homescreen.png" alt="homescreen"/>
 </div>
 
 ---
