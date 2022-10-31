@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-   Uber Clone created with React Native</a>.
+   Uber Clone created with React Native</a>
 </h3>
 
 <p align="center">
