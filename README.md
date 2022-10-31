@@ -8,8 +8,8 @@
 </h3>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#key-technologies">Key Technologies</a> 
+  <a href="#features">Features</a> •
+  <a href="#technologies">Technologies</a> 
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## Key Features
+## Features
 
 - iOS & Android
 - Real world navigation
@@ -28,7 +28,7 @@
 
 ---
 
-## Key Technologies
+## Technologies
 
 - React Native
 - Expo
